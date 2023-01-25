@@ -47,6 +47,7 @@ def start_training(char_name, char_class):
             print(special(char_name, char_class))
     return 'Тренировка окончена.'
 
+
 def choice_char_class():
     approve_choice = None
     char_class = None
